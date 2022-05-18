@@ -21,3 +21,12 @@ $shark:#252627;
 $calico:#E1C599;
 // TYPOGRAPHY
 
+@mixin button-rad{
+    border-radius: 28px !important;
+    color: #fff;
+    background-color: $capeCod;
+    border-color: #f9a826;
+    position: absolute;
+    right:0px;
+    font-size: .75rem !important;
+}

@@ -1,0 +1,42 @@
+{
+    "headerData":
+    [
+        {
+          "nav":"Courses"
+        },
+        {
+           "nav": "Course Format"
+        },
+        {
+           "nav": "Add Course"
+        },
+        {
+           "nav": "Pages"
+        },
+        {
+           "nav": "Demons"
+        }
+    ],
+
+    "footerData":
+    [   
+        {
+            "footer": "Blog"
+          },
+          {
+             "footer": "Home"
+          },
+          {
+             "footer": "ShortCodes"
+          },
+          {
+             "footer": "Courses"
+          },
+          {
+             "footer": "MemberShip"
+          },
+          {
+            "footer": "Typography"
+          }
+    ]
+}
