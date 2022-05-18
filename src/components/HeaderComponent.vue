@@ -6,10 +6,7 @@
       <li v-for="item in headerLi" :key="item">
         <a href="#">{{ item.nav }} &dtrif;</a>
         <ul class="dropdown">
-          <li><a href="#">Web Development</a></li>
-          <li><a href="#">Web Design</a></li>
-          <li><a href="#">Illustration</a></li>
-          <li><a href="#">Iconography</a></li>
+          <li v-for="item in headerLi" :key="item"><a href="#">{{item.nav}}</a></li>
         </ul>
       </li>
       <div class="new">new</div>
